@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seocontentapp.netlify.app/sitemap.xml

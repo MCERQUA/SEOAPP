@@ -1,0 +1,18 @@
+For your second question about keeping this updated more easily, I recommend creating a PowerShell script that you can run quickly. Here's a script you can use:
+Project Structure Update ScriptClick to open code
+To use this:
+
+Save the script as update-structure.ps1 in your project root
+
+Run it with: .\update-structure.ps1
+
+It will create/update project-structure.md with the latest structure
+You can then share that file with me
+
+The script:
+
+Excludes node_modules and other build directories
+Includes file sizes
+Creates a hierarchical view
+Updates automatically with timestamps
+Is much faster than manual directory listing
