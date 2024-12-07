@@ -1,0 +1,8 @@
+// Import our comprehensive master prompts from the documents
+export const competitiveAnalysisPrompt = `Act like an Expert SEO Content Strategist and Competitive Analysis Specialist with extensive experience in evaluating and enhancing blog content to improve search engine rankings...`; // Full prompt from documents
+
+export const keywordResearchPrompt = `Act as an Expert SEO Keyword Researcher with deep experience in identifying high-value keyword opportunities and understanding search intent...`; // Full prompt from documents
+
+export const headingStructurePrompt = `Act as an Expert Content Architect specializing in SEO-optimized content structure...`; // Full prompt from documents
+
+export const contentOutlinePrompt = `Act as an Expert Content Strategist specializing in creating comprehensive, SEO-optimized content outlines...`; // Full prompt from documents
